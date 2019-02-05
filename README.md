@@ -14,9 +14,9 @@ Cookbook based on:
   ```
 
 * Kubeconfig
-```bash
-gcloud container clusters get-credentials msprow
-```
+  ```bash
+  gcloud container clusters get-credentials msprow
+  ```
 
 * Create cluster role bindings
 ```bash
