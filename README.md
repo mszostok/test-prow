@@ -9,9 +9,9 @@ Cookbook based on:
 
 ### Steps
 * Create cluster
-```bash
-gcloud container clusters create msprow --machine-type n1-standard-4 --num-nodes 2
-```
+  ```bash
+  gcloud container clusters create msprow --machine-type n1-standard-4 --num-nodes 2
+  ```
 
 * Kubeconfig
 ```bash
